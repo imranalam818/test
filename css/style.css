@@ -1,0 +1,89 @@
+#main-header {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cc0000+50,cc0000+50,cc0000+64,cc0000+64,cc0000+93&0.5+16,1+100 */
+background: -moz-linear-gradient(top,  rgba(204,0,0,0.5) 16%, rgba(204,0,0,0.7) 50%, rgba(204,0,0,0.78) 64%, rgba(204,0,0,0.96) 93%, rgba(204,0,0,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(204,0,0,0.5) 16%,rgba(204,0,0,0.7) 50%,rgba(204,0,0,0.78) 64%,rgba(204,0,0,0.96) 93%,rgba(204,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(204,0,0,0.5) 16%,rgba(204,0,0,0.7) 50%,rgba(204,0,0,0.78) 64%,rgba(204,0,0,0.96) 93%,rgba(204,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80cc0000', endColorstr='#cc0000',GradientType=0 ); /* IE6-9 */
+
+
+
+height: 80px;
+font-size: 30px;
+}
+.container {
+	font-family: lucida calligraphy;
+	color: pink;
+	width: 83%;
+	margin: 0 auto;
+}
+
+
+#main-navbar {
+	background-color: black;
+}
+#navbar-container {
+	width: 100%;
+	
+	text-align: center;
+}
+#main-navbar {
+	overflow: hidden;
+}
+#main-navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: top;
+}
+#main-navbar ul li  {
+	float: left;
+}
+#main-navbar ul li a {
+	display: block;
+	padding: 10px 20px;
+	color:#fff;
+	text-decoration: none;
+}
+#main-navbar ul li a:hover {
+	background-color: #000;
+}
+main {
+	background-color: grey;
+	margin:  0px;
+	height: 1400px;
+}
+.Professional li  {
+	width: 65%;
+	position: relative;
+	top: -300px;
+	left: 400px;
+	list-style-type: none;
+	text-align: right;
+
+	
+}
+.education {
+	width: 65%;
+	position: relative;
+	left: 450px;
+	top: -300px;
+	text-align: right;
+
+}
+h1 {
+	margin: 0px 10px;
+}
+.pics {
+	margin: 50px 50px 0px 50px;
+	border: 3px solid black;
+	width: 450px;
+
+}
+.video {
+	text-align: center;
+}
+
+
+
+
